@@ -1,3 +1,4 @@
+<h1>Deployed -> https://devk03.github.io/CandyLandUX/</h1>
 # CandyLandUX
 Displaying UX skills using  HTML, CSS, and Bootstrap Framework
 
